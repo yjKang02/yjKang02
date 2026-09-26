@@ -1,5 +1,5 @@
 ## YJ Kang's github page 👋
-
+빠르게 변화하는 바이브 코딩 환경 속에서, 체계적인 설계와 유지보수 가능한 코드 작성에 관심이 많은 개발자입니다.
 ## 🛠 Tech Stack
 
 | Category | Stack |
